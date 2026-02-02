@@ -1,7 +1,17 @@
-# Amazon-Product-Reviews-Exploratory-Data-Analysis-EDA-
-This project focuses on data cleaning, exploratory data analysis, visualization, and storytelling using an Amazon product reviews dataset. The goal is to extract meaningful insights about customer ratings, review trends over time, and product popularity.  This project is designed to demonstrate core Data Analyst skills using Python.
+# Customer Review Analysis (Amazon Dataset)
 
-#Dataset is not included due to size limitations.
-Please download it from the original source(Kaggle datasets).
+Tools: Python (Pandas, Matplotlib)
 
-#This repository contains a sample of the original dataset.
+Overview:
+Performed end-to-end analysis of Amazon customer reviews including data cleaning, EDA, and visualization to understand rating distribution and customer sentiment.
+
+Key Steps:
+- Cleaned raw review data (handled nulls, duplicates, text preprocessing)
+- Exploratory Data Analysis (rating trends, review distribution)
+- Visualizations for ratings and sentiment
+- Summary insights for business understanding
+
+Outcome:
+Identified key review patterns and customer feedback trends that can help improve product quality and customer experience.
+
+Note: This is a project-based learning analysis.
